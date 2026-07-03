@@ -158,9 +158,8 @@ Génération automatique de rapports de due diligence immobilière : géocodage,
 |---|---|---|
 | 🏅 Google Data Analytics Certificate | Google / Coursera | ✅ Obtenu |
 | 🏅 Cisco Networking Basics | Cisco | ✅ Obtenu — oct. 2025 |
-| 🔄 Python for Everybody | Univ. Michigan | 🔄 En cours |
-| 🎓 Licence Pro Ingénierie des SI | SUPMTI Rabat | 🔄 En cours |
-| 🎯 Master SIDS (Systèmes d'Info & Data Science) | — | 🎯 Prochaine étape |
+| 🔄 Python for Everybody | Univ. Michigan | ✅ Obtenu |
+| 🎓 Licence Pro Ingénierie des SI | ✅ Obtenu |
 | 🎯 CCNA → AZ-900 → AZ-104 → AZ-700 → ITIL 4 | Cisco / Microsoft / Axelos | 🎯 Feuille de route |
 
 <br>
