@@ -10,16 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=Khalifouille&color=2c5364&style=flat&label=Vues+du+profil" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Khalifouille?label=Followers&style=flat&color=2c5364" alt="Followers" />
   <img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Rabat%2C%20Maroc-2c5364?style=flat" alt="Location" />
-  <img src="https://img.shields.io/badge/Objectif-Qu%C3%A9bec%20%F0%9F%87%A8%F0%9F%87%A6%202028--2029-2c5364?style=flat" alt="Goal" />
 </p>
 
 <br>
 
 ## 👋 Salut, moi c'est El Mehdi
-
-Je supervise le NOC de **Maroc Telecom** au quotidien, et en dehors des horaires tournants (2x2x2), je construis ma reconversion vers la **data** — méthodiquement, un projet à la fois. J'ai un profil réseaux/infra (Bac+2 Systèmes & Réseaux) et je complète actuellement une **Licence Pro Ingénierie des Systèmes d'Information** à SUPMTI Rabat, avant un Master SIDS (Systèmes d'Information et Data Science).
-
-Ce que je code sert un objectif précis : passer de superviseur d'infrastructure à **Data Analyst / Data Engineer**, avec un horizon d'expatriation au **Québec** (programme Arrima) autour de 2028-2029.
 
 ```text
 🎯 Focus actuel   : construire BienVérifié (SaaS full-stack) + Licence Pro
@@ -37,7 +32,6 @@ graph LR
     A["📡 NOC Supervisor<br/>Maroc Telecom"] --> B["🎓 Licence Pro ISI<br/>SUPMTI Rabat"]
     B --> C["🎓 Master SIDS<br/>Systèmes d'Info & Data Science"]
     C --> D["📊 Data Analyst /<br/>Data Engineer"]
-    D --> E["🇨🇦 Québec<br/>Arrima · 2028-2029"]
 
     style A fill:#0f2027,stroke:#2c8fbf,color:#fff
     style B fill:#203a43,stroke:#2c8fbf,color:#fff
