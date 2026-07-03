@@ -27,14 +27,13 @@
 
 ```mermaid
 graph LR
-    A --> C["🎓 Master SIDS<br/>Systèmes d'Info & Data Science"]
+    A --> C["🎓 Spécialisation en Master SIDS<br/>Systèmes d'Info & Data Science"]
     B --> D["📊 Data Analyst /<br/>Data Engineer"]
 
     style A fill:#0f2027,stroke:#2c8fbf,color:#fff
     style B fill:#203a43,stroke:#2c8fbf,color:#fff
     style C fill:#203a43,stroke:#2c8fbf,color:#fff
     style D fill:#2c5364,stroke:#2c8fbf,color:#fff
-    style E fill:#2c8fbf,stroke:#fff,color:#fff
 ```
 
 <br>
