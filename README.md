@@ -17,10 +17,8 @@
 ## 👋 Salut, moi c'est El Mehdi
 
 ```text
-🎯 Focus actuel   : construire BienVérifié (SaaS full-stack) + Licence Pro
-🌱 En cours       : Python for Everybody (Univ. Michigan)
+🎯 Focus actuel   : construire BienVérifié (SaaS full-stack)
 💬 Demandez-moi   : automatisation Python, réseaux, data pipelines
-⚡ Fun fact       : j'ai perdu 23kg en 7 mois en trackant mes données... les miennes, cette fois
 ```
 
 <br>
@@ -29,9 +27,8 @@
 
 ```mermaid
 graph LR
-    A["📡 NOC Supervisor<br/>Maroc Telecom"] --> B["🎓 Licence Pro ISI<br/>SUPMTI Rabat"]
-    B --> C["🎓 Master SIDS<br/>Systèmes d'Info & Data Science"]
-    C --> D["📊 Data Analyst /<br/>Data Engineer"]
+    A --> C["🎓 Master SIDS<br/>Systèmes d'Info & Data Science"]
+    B --> D["📊 Data Analyst /<br/>Data Engineer"]
 
     style A fill:#0f2027,stroke:#2c8fbf,color:#fff
     style B fill:#203a43,stroke:#2c8fbf,color:#fff
@@ -153,8 +150,6 @@ Génération automatique de rapports de due diligence immobilière : géocodage,
   <img src="https://raw.githubusercontent.com/Khalifouille/Khalifouille/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark" />
   <img src="https://raw.githubusercontent.com/Khalifouille/Khalifouille/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light" />
 </p>
-
-> ⚙️ Cette animation se génère automatiquement chaque jour via GitHub Actions (workflow `.github/workflows/snake.yml` fourni à côté de ce fichier). Voir les instructions d'installation en fin de conversation.
 
 <br>
 
