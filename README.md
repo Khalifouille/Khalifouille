@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=El%20Mehdi%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=NOC%20Supervisor%20%E2%86%92%20Data%20Analyst%20%2F%20Data%20Engineer&descAlignY=55&descSize=18&descColor=e0e0e0" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=2C8FBF&center=true&vCenter=true&width=680&lines=NOC+Supervisor+%40+Maroc+Telecom+%F0%9F%93%A1;En+train+de+construire+BienV%C3%A9rifi%C3%A9+%F0%9F%8F%97%EF%B8%8F;Licence+Pro+ISI+%40+SUPMTI+Rabat+%F0%9F%8E%93;De+Rabat+%F0%9F%87%B2%F0%9F%87%A6+vers+le+Qu%C3%A9bec+%F0%9F%87%A8%F0%9F%87%A6+(2028)" alt="Typing SVG" />
 </p>
 
