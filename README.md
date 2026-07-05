@@ -4,32 +4,6 @@
   <img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Rabat%2C%20Maroc-2c5364?style=flat" alt="Location" />
 </p>
 
-<br>
-
-## 👋 Salut, moi c'est El Mehdi
-
-```text
-🎯 Focus actuel   : construire BienVérifié (SaaS full-stack)
-💬 Demandez-moi   : automatisation Python, réseaux, data pipelines
-```
-
-<br>
-
-## 🧭 Feuille de route
-
-```mermaid
-graph LR
-    A --> C["🎓 Spécialisation en Master SIDS<br/>Systèmes d'Info & Data Science"]
-    B --> D["📊 Data Analyst /<br/>Data Engineer"]
-
-    style A fill:#0f2027,stroke:#2c8fbf,color:#fff
-    style B fill:#203a43,stroke:#2c8fbf,color:#fff
-    style C fill:#203a43,stroke:#2c8fbf,color:#fff
-    style D fill:#2c5364,stroke:#2c8fbf,color:#fff
-```
-
-<br>
-
 ## 🚧 Ce que je construis en ce moment
 
 ### BienVérifié — SaaS de rapports immobiliers automatisés (France)
