@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=2C8FBF&center=true&vCenter=true&width=680&lines=NOC+Supervisor+%40+Maroc+Telecom+%F0%9F%93%A1;En+train+de+construire+BienV%C3%A9rifi%C3%A9+%F0%9F%8F%97%EF%B8%8F;Licence+Pro+ISI+%40+SUPMTI+Rabat+%F0%9F%8E%93;De+Rabat+%F0%9F%87%B2%F0%9F%87%A6+vers+le+Qu%C3%A9bec+%F0%9F%87%A8%F0%9F%87%A6+(2028)" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Khalifouille&color=2c5364&style=flat&label=Vues+du+profil" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Khalifouille?label=Followers&style=flat&color=2c5364" alt="Followers" />
   <img src="https://img.shields.io/badge/Bas%C3%A9%20%C3%A0-Rabat%2C%20Maroc-2c5364?style=flat" alt="Location" />
